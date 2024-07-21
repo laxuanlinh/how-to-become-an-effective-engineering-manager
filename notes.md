@@ -74,3 +74,53 @@
 - What API to use to delegate work through others 
 
 ### How to communicate well?
+- Think about the medium to use to communicate
+  - Face to face: requires present in person. Best for important conversations like performance review 
+  - Email: fairly formal, archives information to refer back to
+  - Documents: formalizing ideas such as designs and architectures
+  - Chat: great to communicate in teams to ask quick questions, not always a good place for formal conversation.
+- Ensure each piece of communication if fully formed. There is a big difference between these 2
+  - ***Hello***
+  - ***Hello, are you around today?\
+  I'm looking for some help with testing my API change locally.***
+
+### Manage your energy
+- If you don't bring the right energy to a conversation, you may make the person think that you're annoyed at them while you are just annoyed by the last convesation with someone else
+- You can deal with bad energy in 2 ways
+  - Tell the person that you're speaking up front, and the reason why
+  - Reschedule the meeting
+
+### Measure twice, cut once
+- Only communicate with the team when need to, not when want to
+- If a news is not confirmed then it's best that your team doesn't need to know
+- A manager's communication should never be to increase their social capital but to be concise, informative and actionable
+
+### Make the conversations about the others
+- A conversation is between 2 parties but you should always make it about the others, not about you
+- Before sending an email, reread it as if you're reading it the first time to put yourself in others' shoes.
+
+### Make conversations 2 ways
+- Connect at a human level with the person you're communicating with
+- Be natural and inquisitive, listen, ask questions and invite responses
+
+### Be consistent
+- Be consistent with the way you communicate across different platforms and mediums
+- The formality doesn't have to be consistent though such as in chat, you can start with formality and gradually ease the formality to a place that you're comfortable with that allows you to still be authorative and critical when needed
+- Once you reach extreme informality, it's very difficult to get back to formality.
+
+### How to give feedback?
+- When delivering feedback, need to ensure that you:
+  - Care personally about the person you're talking to and it's in their best interest and you want to see them improve
+  - Cut to the chase, if you think something is not good enough then say it.
+- If you don't do 1 of these 2 or neither of them then one of these things can happen
+  - *Ruinous empathy*: when you care personally but too afraid to challenge directly and the person cannot improve
+  - *Obnoxious aggression*: when you only challenge but don't care personally and turn the feedback into mean criticsm
+  - *Manipulative insencirity*: when you do neither so good behaviors go unpraised and bad behaviors are ignored
+- However if you do both of those things then you achieve *Radical candor*, which is when you directly deliver the feedback in such a way that the person sees that you care
+
+### Traits to avoid
+- *Overcommunication*: if you have to repeat what you said again and again that can frutstrates other people then the communication is not efficient
+- *Waffling*: don't avoid a question by directing to something else, if you don't want to answer a question or don't know the answer then just say no
+- *Playing with the crowd*: don't be a manager who try to please everyone, especially when it means hiding information, sugar coating or lying, just say it like it is, even if it's bad news
+- *Inconsistency*: be the same person to everyone.
+- *Letting emotions get in the way*: if you feel you're angry or overcharged with emotions then be open about how you feel or reschedule the meetings.
