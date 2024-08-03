@@ -124,3 +124,13 @@
 - *Playing with the crowd*: don't be a manager who try to please everyone, especially when it means hiding information, sugar coating or lying, just say it like it is, even if it's bad news
 - *Inconsistency*: be the same person to everyone.
 - *Letting emotions get in the way*: if you feel you're angry or overcharged with emotions then be open about how you feel or reschedule the meetings.
+
+### Delegate
+- Strong individual contributors are promoted to manager positions and find themselves doing all the important work, they fail to delegate it to the team and give them the support and mentorship
+- Managers who give tasks to team members then completely forget about them, not giving the support and mentorship
+- Delegate the responsibility, not the accountability
+- No one is an expert at every task, delegate appropriately according to the task and the experience
+- Critical tasks might require more control than delegation, for example, a bug in Production requires more attention to the senior developer who is fixing it than the same bug in Dev environment.
+- Given the right mix of control, delegate as much of the task as you can, with time, as the staff gain more experience, you can delegate more.
+- *Don't expect other people to work like you*, the more you delegate, the more they will approach the problem different from you and that's fine, you're accountable for the output, not the process
+- You delegate tasks to the correct point on the scale, so that the staff can do it themselves or learn how to do it. If you lean to much to delegation and shift it back to control a little bit. *Never get frustrated and do it yourself*.
